@@ -14,8 +14,8 @@ import MenuItem from '@mui/material/MenuItem';
 import AdbIcon from '@mui/icons-material/Adb';
 import AirplaneTicketTwoToneIcon from '@mui/icons-material/AirplaneTicketTwoTone';
 const pages = [
-    {id:1,pageName:"Home",pathName:"/"},
-    {id:2,pageName:"About",pathName:"/"},
+    {id:1,pageName:"HomePage",pathName:"/"},
+    {id:2,pageName:"About",pathName:"/about"},
     {id:3,pageName:"Contact",pathName:"/"}];
 const settings = ['Profile', 'Account', 'Dashboard', 'Logout'];
 

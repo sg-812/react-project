@@ -37,7 +37,7 @@ const Fruits = [
   {
     id: 4,
     title: "Fruit 4",
-    clicked: "Johannes Vermeer",
+    clicked: "Johannes Vermeerss",
     image:
       "https://cdn.pixabay.com/photo/2017/05/31/14/31/mango-2360551_1280.jpg",
     description: "Iconic portrait of a girl with an earring.",
